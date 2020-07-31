@@ -1,0 +1,3 @@
+nvram set clkfreq=320,160,80
+nvram commit
+reboot
