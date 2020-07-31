@@ -1,0 +1,6 @@
+nvram set boardrev=0x1446
+nvram set boardflags=0x710
+nvram set boardtype=0x550
+nvram set boardnum=0015
+nvram commit
+reboo
