@@ -3,4 +3,4 @@ nvram set boardflags=0x710
 nvram set boardtype=0x550
 nvram set boardnum=0015
 nvram commit
-reboo
+reboot
